@@ -51,7 +51,7 @@ Ensure you have Python 3.8+ installed. You also need **Graphviz** installed on y
 ### 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/compiler-design-studio.git
+   git clone https://github.com/Chandan-Yadav24/compiler-design-studio.git
    cd compiler-design-studio
    ```
 
